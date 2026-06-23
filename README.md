@@ -7,3 +7,7 @@
 - [![repo](https://img.shields.io/badge/repo-green?label=Power%20Query)](https://github.com/filcuk/power-query) Collection of M functions
 - [![repo](https://img.shields.io/badge/repo-green?label=DAX)](https://github.com/filcuk/dax) Collection of DAX functions
 - [![Static Badge](https://img.shields.io/badge/config-purple?label=BPA%20Rules)](https://github.com/filcuk/ssas-best-practice-rules) Customised set of Best Practice Analyser rules
+
+---
+
+![filcuk's Stats](https://github-readme-stats.vercel.app/api?username=filcuk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![filcuk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=filcuk&theme=vue-dark&hide_border=true)  
