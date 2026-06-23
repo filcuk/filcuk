@@ -10,4 +10,11 @@
 
 ---
 
-![filcuk's Stats](https://github-readme-stats.vercel.app/api?username=filcuk&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=filcuk&theme=dark&hide_title=true&hide=stars&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filcuk&theme=dark&layout=compact&hide_title=true&langs_count=6&card_width=320" />
+</a>
