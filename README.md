@@ -18,5 +18,5 @@
   <img height=200 align="center" src="https://project-zucul.vercel.app/api?username=filcuk&theme=dark&hide_title=true&hide=stars&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://project-zucul.vercel.app/api/top-langs?username=filcuk&theme=dark&hide_border=true&layout=compact&hide_title=true&langs_count=6&card_width=320" />
+  <img height=200 align="center" src="https://project-zucul.vercel.app/api/top-langs?username=filcuk&theme=dark&hide_border=true&layout=compact&hide_title=true&langs_count=6&count_private=true&card_width=320" />
 </a>
