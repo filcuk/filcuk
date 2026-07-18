@@ -8,6 +8,9 @@
 - [![](https://img.shields.io/badge/repo-green?label=DAX)](https://github.com/filcuk/dax) Collection of DAX functions
 - [![](https://img.shields.io/badge/config-purple?label=BPA%20Rules)](https://github.com/filcuk/ssas-best-practice-rules) Customised set of Best Practice Analyser rules
 
+### Other
+- [![](https://img.shields.io/badge/microapp-blue?label=C%2B%2B%20Image%20Converter)](https://filcuk.github.io/cpp-image-converter/) Convert image array to or from svg
+
 ### Packages
 - [![](https://img.shields.io/badge/npm-red?label=Planka%20MCP)](https://github.com/filcuk/planka-mcp/pkgs/npm/planka-mcp) MCP server for Planka Kanban
 - [![](https://img.shields.io/badge/npm-red?label=Planka%20n8n%20Node)](https://github.com/filcuk/n8n-nodes-planka-kanban/pkgs/npm/n8n-nodes-planka-kanban) n8n automation node for Planka Kanban
