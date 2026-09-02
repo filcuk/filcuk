@@ -1,6 +1,7 @@
 ### Data & Analytics
 - [![](https://img.shields.io/badge/microapp-blue?label=PQM%20Stepper)](https://filcuk.github.io/pqm-stepper/) One-hit friendly M step renaming
 - [![](https://img.shields.io/badge/microapp-blue?label=PBI%20Tabulator)](https://filcuk.github.io/pbi-tabulator/) Convert between tabular data and DAX or M tables
+- [![](https://img.shields.io/badge/microapp-blue?label=PBI%20Embedder)](https://filcuk.github.io/pbi-embedder/) Tools for embedding documents in M and DAX whilst bypassing data limits or file type constraints
 - [![](https://img.shields.io/badge/microapp-blue?label=PQM%20Function%20Creator)](https://filcuk.github.io/pqm-function-creator/) Generate M function wrapper around existing logic using input forms
 - [![](https://img.shields.io/badge/microapp-blue?label=DB%20CSC)](https://filcuk.github.io/connection-string-creator/) Human input generator for database connection strings
 - [![](https://img.shields.io/badge/microapp-blue?label=PBI%20Theme%20Customiser)](https://filcuk.github.io/pbi-theme-customiser/) Power BI theme editor with focus on colours
@@ -18,6 +19,7 @@
 
 ### Other
 - [Proofpoint Redirect Bypass](https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/) **Firefox Add-on** which extracts blocked URL from Proofpoint fragment and loads it directly
+- [Colour Tools](https://filcuk.github.io/colour-tools/) Various tools for working with colours
 
 ---
 
