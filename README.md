@@ -5,6 +5,7 @@
 - [![](https://img.shields.io/badge/microapp-blue?label=PQM%20Function%20Creator)](https://filcuk.github.io/pqm-function-creator/) Generate M function wrapper around existing logic using input forms
 - [![](https://img.shields.io/badge/microapp-blue?label=DB%20CSC)](https://filcuk.github.io/connection-string-creator/) Human input generator for database connection strings
 - [![](https://img.shields.io/badge/microapp-blue?label=PBI%20Theme%20Customiser)](https://filcuk.github.io/pbi-theme-customiser/) Power BI theme editor with focus on colours
+- [![](https://img.shields.io/badge/CLI-teal?label=Fabric%20Tools)](https://github.com/filcuk/fabric-tools/releases) CLI for working with Microsoft Fabric artifacts 
 - [![](https://img.shields.io/badge/TUI-teal?label=PBIgTk)](https://github.com/filcuk/pbi-git-toolkit/releases) Tool for providing clarity for Power BI project files on git version control 
 - [![](https://img.shields.io/badge/repo-green?label=Power%20Query)](https://github.com/filcuk/power-query) Collection of M functions
 - [![](https://img.shields.io/badge/repo-green?label=DAX)](https://github.com/filcuk/dax) Collection of DAX functions
