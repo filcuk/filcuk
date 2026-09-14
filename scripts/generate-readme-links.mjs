@@ -111,12 +111,11 @@ function renderRowContent(item) {
   const repo = renderRepoLink(item);
 
   const parts = [];
+  parts.push(`<a href="${href}" title="${titleAttr}">${badge}</a>`);
   if (icon) parts.push(icon);
-  parts.push(
-    `<a href="${href}" title="${titleAttr}"><strong>${label}</strong> ${badge}</a>`,
-  );
-  if (repo) parts.push(repo);
-  if (item.subtitle) parts.push(escapeHtml(item.subtitle));
+  parts.push(`<a href="${href}" title="${titleAttr}"><strong>${label}</strong></a>`);
+  if (repo) parts.push("·", repo);
+  if (item.subtitle) parts.push("·", escapeHtml(item.subtitle));
   return parts.join(" ");
 }
 
@@ -127,8 +126,8 @@ function renderItem(item) {
     return `- ${row}`;
   }
 
-  // Blank lines after </summary> so GFM can render Markdown in the body.
-  return `<details>\n<summary>${row}</summary>\n\n${description}\n\n</details>`;
+  // Indented under the row (no nested <details> — GitHub styles those like top-level sections).
+  return `- ${row}\n\n  ${description.replaceAll("\n", "\n  ")}`;
 }
 
 function visibleTopics(catalog) {
