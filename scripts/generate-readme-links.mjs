@@ -126,8 +126,8 @@ function renderItem(item) {
     return `- ${row}`;
   }
 
-  // Indented under the row (no nested <details> — GitHub styles those like top-level sections).
-  return `- ${row}\n\n  ${description.replaceAll("\n", "\n  ")}`;
+  // Item-level expand only (topics are headings, so this is not nested details).
+  return `<details>\n<summary>${row}</summary>\n\n${description}\n\n</details>`;
 }
 
 function visibleTopics(catalog) {
@@ -147,7 +147,7 @@ function visibleTopics(catalog) {
 function renderSection(topics) {
   const blocks = topics.map((topic) => {
     const rows = topic.items.map(renderItem).join("\n\n");
-    return `<details open>\n<summary>${escapeHtml(topic.name)}</summary>\n\n${rows}\n\n</details>`;
+    return `### ${topic.name}\n\n${rows}`;
   });
   return `${blocks.join("\n\n")}\n`;
 }
