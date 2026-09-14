@@ -161,7 +161,7 @@ function visibleTopics(catalog) {
 
 function renderSection(topics) {
   const blocks = topics.map((topic) => {
-    const rows = topic.items.map(renderItem).join("\n\n");
+    const rows = topic.items.map(renderItem).join("\n");
     return `### ${topic.name}\n\n${rows}`;
   });
   return `${blocks.join("\n\n")}\n`;
