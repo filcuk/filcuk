@@ -84,23 +84,51 @@ function renderIcon(item) {
 function renderBadge(type) {
   const meta = TYPE_BADGE[type] || { label: type, color: "lightgrey" };
   const label = encodeURIComponent(meta.label);
-  return `![${meta.label}](https://img.shields.io/badge/${label}-${meta.color})`;
+  const src = `https://img.shields.io/badge/${label}-${meta.color}`;
+  return `<img src="${src}" alt="${escapeAttr(meta.label)}" align="absmiddle">`;
 }
 
-function renderItem(item) {
+function renderRepoLink(item) {
+  if (!item.repo) return "";
+  const href = escapeAttr(item.repo);
+  return (
+    `<a href="${href}" title="Repository">` +
+    `<picture>` +
+    `<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc">` +
+    `<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle">` +
+    `</picture>` +
+    `</a>`
+  );
+}
+
+function renderRowContent(item) {
   const title = item.subtitle || item.label;
   const href = escapeAttr(item.url);
   const titleAttr = escapeAttr(title);
   const label = escapeHtml(item.label);
   const icon = renderIcon(item);
   const badge = renderBadge(item.type);
+  const repo = renderRepoLink(item);
 
   const parts = [];
   if (icon) parts.push(icon);
-  parts.push(`<a href="${href}" title="${titleAttr}"><strong>${label}</strong></a>`);
-  parts.push(badge);
-  if (item.subtitle) parts.push(`— ${escapeHtml(item.subtitle)}`);
-  return `- ${parts.join(" ")}`;
+  parts.push(
+    `<a href="${href}" title="${titleAttr}"><strong>${label}</strong> ${badge}</a>`,
+  );
+  if (repo) parts.push(repo);
+  if (item.subtitle) parts.push(escapeHtml(item.subtitle));
+  return parts.join(" ");
+}
+
+function renderItem(item) {
+  const row = renderRowContent(item);
+  const description = typeof item.description === "string" ? item.description.trim() : "";
+  if (!description) {
+    return `- ${row}`;
+  }
+
+  // Blank lines after </summary> so GFM can render Markdown in the body.
+  return `<details>\n<summary>${row}</summary>\n\n${description}\n\n</details>`;
 }
 
 function visibleTopics(catalog) {
@@ -119,7 +147,7 @@ function visibleTopics(catalog) {
 
 function renderSection(topics) {
   const blocks = topics.map((topic) => {
-    const rows = topic.items.map(renderItem).join("\n");
+    const rows = topic.items.map(renderItem).join("\n\n");
     return `<details open>\n<summary>${escapeHtml(topic.name)}</summary>\n\n${rows}\n\n</details>`;
   });
   return `${blocks.join("\n\n")}\n`;
