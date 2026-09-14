@@ -102,7 +102,7 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 </details>
 <!-- links:end -->
 
----
+<hr size="1">
 
 <a href="">
   <img height=200 align="center" src="https://project-zucul.vercel.app/api?username=filcuk&theme=github_dark&hide_title=true&hide=stars&show_icons=true&hide_border=true&count_private=true" />
