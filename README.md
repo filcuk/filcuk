@@ -103,8 +103,8 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 <!-- links:end -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='900' height='1' viewBox='0 0 900 1' preserveAspectRatio='none'%3E%3Crect width='900' height='1' fill='%233d444d'/%3E%3C/svg%3E">
-  <img alt="" width="900" height="1" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='900' height='1' viewBox='0 0 900 1' preserveAspectRatio='none'%3E%3Crect width='900' height='1' fill='%23d1d9e0'/%3E%3C/svg%3E">
+  <source media="(prefers-color-scheme: dark)" srcset="res/hr-dark.svg">
+  <img alt="" src="res/hr-light.svg" width="900" height="1">
 </picture>
 
 <a href="">
