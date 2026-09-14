@@ -122,11 +122,12 @@ function renderRowContent(item) {
 function renderItem(item) {
   const row = renderRowContent(item);
   const description = typeof item.description === "string" ? item.description.trim() : "";
+
+  // Every item is a <details> so rows align; placeholder until descriptions are filled in.
   if (!description) {
-    return `- ${row}`;
+    return `<details>\n<summary>${row}</summary>\n\n🤔 nothing here yet...\n\n</details>`;
   }
 
-  // Item-level expand only (topics are headings, so this is not nested details).
   return `<details>\n<summary>${row}</summary>\n\n${description}\n\n</details>`;
 }
 
