@@ -102,7 +102,10 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 </details>
 <!-- links:end -->
 
-<hr size="1">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='900' height='1' viewBox='0 0 900 1' preserveAspectRatio='none'%3E%3Crect width='900' height='1' fill='%233d444d'/%3E%3C/svg%3E">
+  <img alt="" width="900" height="1" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='900' height='1' viewBox='0 0 900 1' preserveAspectRatio='none'%3E%3Crect width='900' height='1' fill='%23d1d9e0'/%3E%3C/svg%3E">
+</picture>
 
 <a href="">
   <img height=200 align="center" src="https://project-zucul.vercel.app/api?username=filcuk&theme=github_dark&hide_title=true&hide=stars&show_icons=true&hide_border=true&count_private=true" />
