@@ -1,15 +1,12 @@
 /**
  * Regenerates the profile README links section from shared dir/links.json.
- *
- * After filcuk/shared merges the catalog to main, change LINKS_JSON_URL to:
- *   https://raw.githubusercontent.com/filcuk/shared/main/dir/links.json
  */
 import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const LINKS_JSON_URL =
-  "https://raw.githubusercontent.com/filcuk/shared/refs/heads/main/dir/links.json";
+  "https://raw.githubusercontent.com/filcuk/shared/main/dir/links.json";
 
 const START = "<!-- links:start -->";
 const END = "<!-- links:end -->";
@@ -101,6 +98,21 @@ function renderRepoLink(item) {
   );
 }
 
+function renderLanguages(item) {
+  const langs = Array.isArray(item.languages) ? item.languages : [];
+  if (!langs.length) return "";
+
+  return langs
+    .map((slug) => {
+      const id = String(slug).trim();
+      if (!id) return "";
+      const src = `https://cdn.simpleicons.org/${encodeURIComponent(id)}`;
+      return `<img src="${escapeAttr(src)}" alt="${escapeAttr(id)}" title="${escapeAttr(id)}" width="16" height="16" align="absmiddle">`;
+    })
+    .filter(Boolean)
+    .join(" ");
+}
+
 function renderRowContent(item) {
   const title = item.subtitle || item.label;
   const href = escapeAttr(item.url);
@@ -109,12 +121,14 @@ function renderRowContent(item) {
   const icon = renderIcon(item);
   const badge = renderBadge(item.type);
   const repo = renderRepoLink(item);
+  const languages = renderLanguages(item);
 
   const parts = [];
   parts.push(`<a href="${href}" title="${titleAttr}">${badge}</a>`);
   if (icon) parts.push(icon);
   parts.push(`<a href="${href}" title="${titleAttr}"><strong>${label}</strong></a>`);
   if (repo) parts.push("·", repo);
+  if (languages) parts.push("·", languages);
   if (item.subtitle) parts.push("·", escapeHtml(item.subtitle));
   return parts.join(" ");
 }
