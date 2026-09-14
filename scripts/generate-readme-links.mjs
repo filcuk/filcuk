@@ -9,7 +9,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const LINKS_JSON_URL =
-  "https://raw.githubusercontent.com/filcuk/shared/6c1a6e73d55f9a966f1f156539eb0745fafb7c8d/dir/links.json";
+  "https://raw.githubusercontent.com/filcuk/shared/refs/heads/main/dir/links.json";
 
 const START = "<!-- links:start -->";
 const END = "<!-- links:end -->";
