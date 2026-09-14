@@ -68,7 +68,7 @@ function renderIcon(item) {
       `<a href="${href}" title="${titleAttr}">` +
       `<picture>` +
       `<source media="(prefers-color-scheme: dark)" srcset="${escapeAttr(dark)}">` +
-      `<img src="${escapeAttr(light)}" alt="${alt}" width="20" height="20">` +
+      `<img src="${escapeAttr(light)}" alt="${alt}" width="20" height="20" align="absmiddle">` +
       `</picture>` +
       `</a>`
     );
@@ -76,7 +76,7 @@ function renderIcon(item) {
 
   return (
     `<a href="${href}" title="${titleAttr}">` +
-    `<img src="${escapeAttr(light)}" alt="${alt}" width="20" height="20">` +
+    `<img src="${escapeAttr(light)}" alt="${alt}" width="20" height="20" align="absmiddle">` +
     `</a>`
   );
 }
@@ -92,14 +92,14 @@ function renderItem(item) {
   const href = escapeAttr(item.url);
   const titleAttr = escapeAttr(title);
   const label = escapeHtml(item.label);
-  const subtitle = item.subtitle ? ` — ${escapeHtml(item.subtitle)}` : "";
   const icon = renderIcon(item);
   const badge = renderBadge(item.type);
 
   const parts = [];
   if (icon) parts.push(icon);
-  parts.push(`<a href="${href}" title="${titleAttr}"><strong>${label}</strong></a>${subtitle}`);
+  parts.push(`<a href="${href}" title="${titleAttr}"><strong>${label}</strong></a>`);
   parts.push(badge);
+  if (item.subtitle) parts.push(`— ${escapeHtml(item.subtitle)}`);
   return `- ${parts.join(" ")}`;
 }
 
@@ -118,10 +118,9 @@ function visibleTopics(catalog) {
 }
 
 function renderSection(topics) {
-  const blocks = topics.map((topic, index) => {
-    const open = index === 0 ? " open" : "";
+  const blocks = topics.map((topic) => {
     const rows = topic.items.map(renderItem).join("\n");
-    return `<details${open}>\n<summary>${escapeHtml(topic.name)}</summary>\n\n${rows}\n\n</details>`;
+    return `<details open>\n<summary>${escapeHtml(topic.name)}</summary>\n\n${rows}\n\n</details>`;
   });
   return `${blocks.join("\n\n")}\n`;
 }
