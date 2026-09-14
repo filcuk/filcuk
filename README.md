@@ -1,26 +1,120 @@
+<!-- links:start -->
 ### Data & Analytics
-- [![](https://img.shields.io/badge/microapp-blue?label=PQM%20Stepper)](https://filcuk.github.io/pqm-stepper/) One-hit friendly M step renaming
-- [![](https://img.shields.io/badge/microapp-blue?label=PBI%20Tabulator)](https://filcuk.github.io/pbi-tabulator/) Convert between tabular data and DAX or M tables
-- [![](https://img.shields.io/badge/microapp-blue?label=PBI%20Embedder)](https://filcuk.github.io/pbi-embedder/) Tools for embedding documents in M and DAX whilst bypassing data limits or file type constraints
-- [![](https://img.shields.io/badge/microapp-blue?label=PQM%20Function%20Creator)](https://filcuk.github.io/pqm-function-creator/) Generate M function wrapper around existing logic using input forms
-- [![](https://img.shields.io/badge/microapp-blue?label=DB%20CSC)](https://filcuk.github.io/connection-string-creator/) Human input generator for database connection strings
-- [![](https://img.shields.io/badge/microapp-blue?label=PBI%20Theme%20Customiser)](https://filcuk.github.io/pbi-theme-customiser/) Power BI theme editor with focus on colours
-- [![](https://img.shields.io/badge/CLI-teal?label=Fabric%20Tools)](https://github.com/filcuk/fabric-tools/releases) CLI for working with Microsoft Fabric artifacts 
-- [![](https://img.shields.io/badge/TUI-teal?label=PBIgTk)](https://github.com/filcuk/pbi-git-toolkit/releases) Tool for providing clarity for Power BI project files on git version control 
-- [![](https://img.shields.io/badge/repo-green?label=Power%20Query)](https://github.com/filcuk/power-query) Collection of M functions
-- [![](https://img.shields.io/badge/repo-green?label=DAX)](https://github.com/filcuk/dax) Collection of DAX functions
-- [![](https://img.shields.io/badge/config-purple?label=BPA%20Rules)](https://github.com/filcuk/ssas-best-practice-rules) Customised set of Best Practice Analyser rules
 
-### Embedded
-- [![](https://img.shields.io/badge/microapp-blue?label=C%2B%2B%20Image%20Converter)](https://filcuk.github.io/cpp-image-converter/) Convert image array to or from svg
+<details>
+<summary><a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><img src="https://img.shields.io/badge/app-blue" alt="app" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><picture><source media="(prefers-color-scheme: dark)" srcset="https://filcuk.github.io/pqm-stepper/app/res/app-dark.svg"><img src="https://filcuk.github.io/pqm-stepper/app/res/app-light.svg" alt="Power Query M Stepper" width="20" height="20" align="absmiddle"></picture></a> <a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><strong>Power Query M Stepper</strong></a> · <a href="https://github.com/filcuk/pqm-stepper" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Automatic M step renaming</summary>
 
-### Packages
-- [![](https://img.shields.io/badge/npm-red?label=Planka%20MCP)](https://github.com/filcuk/planka-mcp/pkgs/npm/planka-mcp) MCP server for Planka Kanban
-- [![](https://img.shields.io/badge/npm-red?label=Planka%20n8n%20Node)](https://github.com/filcuk/n8n-nodes-planka-kanban/pkgs/npm/n8n-nodes-planka-kanban) n8n automation node for Planka Kanban
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><img src="https://img.shields.io/badge/app-blue" alt="app" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><img src="https://filcuk.github.io/pqm-function-creator/app/res/app.svg" alt="Power Query M Function Creator" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><strong>Power Query M Function Creator</strong></a> · <a href="https://github.com/filcuk/pqm-function-creator" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Easy M to function conversion</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://filcuk.github.io/pbi-tabulator/" title="Tabular conversion for DAX &amp; M"><img src="https://img.shields.io/badge/app-blue" alt="app" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-tabulator/" title="Tabular conversion for DAX &amp; M"><img src="https://filcuk.github.io/pbi-tabulator/app/res/app.svg" alt="Power BI Tabulator" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-tabulator/" title="Tabular conversion for DAX &amp; M"><strong>Power BI Tabulator</strong></a> · <a href="https://github.com/filcuk/pbi-tabulator" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Tabular conversion for DAX &amp; M</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://filcuk.github.io/pbi-embedder/" title="Embed documents in Power BI"><img src="https://img.shields.io/badge/app-blue" alt="app" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-embedder/" title="Embed documents in Power BI"><img src="https://filcuk.github.io/pbi-embedder/app/res/app.svg" alt="Power BI Embedder" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-embedder/" title="Embed documents in Power BI"><strong>Power BI Embedder</strong></a> · <a href="https://github.com/filcuk/pbi-embedder" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Embed documents in Power BI</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://filcuk.github.io/pbi-theme-customiser/" title="Theme import, export &amp; customisation"><img src="https://img.shields.io/badge/app-blue" alt="app" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-theme-customiser/" title="Theme import, export &amp; customisation"><img src="https://filcuk.github.io/pbi-theme-customiser/res/logo.svg" alt="Power BI Theme Customiser" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-theme-customiser/" title="Theme import, export &amp; customisation"><strong>Power BI Theme Customiser</strong></a> · <a href="https://github.com/filcuk/pbi-theme-customiser" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Theme import, export &amp; customisation</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><img src="https://img.shields.io/badge/app-blue" alt="app" align="absmiddle"></a> <a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><img src="https://filcuk.github.io/connection-string-creator/app/res/app.svg" alt="Database Connection String Generator" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><strong>Database Connection String Generator</strong></a> · <a href="https://github.com/filcuk/connection-string-creator" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Zero-knowledge CS builder</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><img src="https://img.shields.io/badge/CLI-teal" alt="CLI" align="absmiddle"></a> <a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><img src="https://raw.githubusercontent.com/filcuk/fabric-tools/refs/heads/main/res/app.svg" alt="Fabric Tools" width="20" height="20" align="absmiddle"></a> <a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><strong>Fabric Tools</strong></a> · <a href="https://github.com/filcuk/fabric-tools" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · CLI for working with Microsoft Fabric artifacts</summary>
+
+fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamline daily tasks_ across Fabric, avoiding clunky online editors and slow deployment pipelines.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/filcuk/pbi-git-toolkit/releases" title="Clarity for Power BI project files on git"><img src="https://img.shields.io/badge/TUI-teal" alt="TUI" align="absmiddle"></a> <a href="https://github.com/filcuk/pbi-git-toolkit/releases" title="Clarity for Power BI project files on git"><strong>PBIgTk</strong></a> · <a href="https://github.com/filcuk/pbi-git-toolkit" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Clarity for Power BI project files on git</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://github.com/filcuk/power-query" title="Collection of M functions"><img src="https://img.shields.io/badge/repo-green" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/power-query" title="Collection of M functions"><strong>Power Query</strong></a> · Collection of M functions</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><img src="https://img.shields.io/badge/repo-green" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><strong>DAX</strong></a> · Collection of DAX functions</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-green" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · Customised Best Practice Analyser rules</summary>
+
+🤔 nothing here yet...
+
+</details>
 
 ### Other
-- [Proofpoint Redirect Bypass](https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/) **Firefox Add-on** which extracts blocked URL from Proofpoint fragment and loads it directly
-- [Colour Tools](https://filcuk.github.io/colour-tools/) Various tools for working with colours
+
+<details>
+<summary><a href="https://filcuk.github.io/cpp-image-converter/" title="Convert between image array and svg"><img src="https://img.shields.io/badge/app-blue" alt="app" align="absmiddle"></a> <a href="https://filcuk.github.io/cpp-image-converter/" title="Convert between image array and svg"><img src="https://filcuk.github.io/cpp-image-converter/app/res/app.svg" alt="C++ Image Converter" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/cpp-image-converter/" title="Convert between image array and svg"><strong>C++ Image Converter</strong></a> · <a href="https://github.com/filcuk/cpp-image-converter" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Convert between image array and svg</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://filcuk.github.io/colour-tools/" title="Various tools for working with colours"><img src="https://img.shields.io/badge/app-blue" alt="app" align="absmiddle"></a> <a href="https://filcuk.github.io/colour-tools/" title="Various tools for working with colours"><img src="https://filcuk.github.io/colour-tools/app/res/app.svg" alt="Colour Tools" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/colour-tools/" title="Various tools for working with colours"><strong>Colour Tools</strong></a> · <a href="https://github.com/filcuk/colour-tools" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Various tools for working with colours</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://github.com/filcuk/planka-mcp/pkgs/npm/planka-mcp" title="MCP server for Planka Kanban"><img src="https://img.shields.io/badge/npm-red" alt="npm" align="absmiddle"></a> <a href="https://github.com/filcuk/planka-mcp/pkgs/npm/planka-mcp" title="MCP server for Planka Kanban"><strong>Planka MCP</strong></a> · <a href="https://github.com/filcuk/planka-mcp" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · MCP server for Planka Kanban</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://github.com/filcuk/n8n-nodes-planka-kanban/pkgs/npm/n8n-nodes-planka-kanban" title="n8n automation node for Planka Kanban"><img src="https://img.shields.io/badge/npm-red" alt="npm" align="absmiddle"></a> <a href="https://github.com/filcuk/n8n-nodes-planka-kanban/pkgs/npm/n8n-nodes-planka-kanban" title="n8n automation node for Planka Kanban"><strong>Planka n8n Node</strong></a> · <a href="https://github.com/filcuk/n8n-nodes-planka-kanban" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · n8n automation node for Planka Kanban</summary>
+
+🤔 nothing here yet...
+
+</details>
+
+<details>
+<summary><a href="https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/" title="Firefox add-on to open Proofpoint-blocked URLs"><img src="https://img.shields.io/badge/addon-purple" alt="addon" align="absmiddle"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/" title="Firefox add-on to open Proofpoint-blocked URLs"><strong>Proofpoint Redirect Bypass</strong></a> · <a href="https://github.com/filcuk/bypass-proofpoint-redirect" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a> · Firefox add-on to open Proofpoint-blocked URLs</summary>
+
+🤔 nothing here yet...
+
+</details>
+<!-- links:end -->
 
 ---
 
