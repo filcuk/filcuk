@@ -62,7 +62,7 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-green" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · <img src="https://cdn.simpleicons.org/csharp" alt="csharp" title="csharp" width="16" height="16" align="absmiddle"> · Customised Best Practice Analyser rules</summary>
+<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-green" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · <img src="res/lang/csharp.svg" alt="csharp" title="csharp" width="16" height="16" align="absmiddle"> · Customised Best Practice Analyser rules</summary>
 
 🤔 nothing here yet...
 

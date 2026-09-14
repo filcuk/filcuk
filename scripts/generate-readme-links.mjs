@@ -1,7 +1,7 @@
 /**
  * Regenerates the profile README links section from shared dir/links.json.
  */
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -98,6 +98,13 @@ function renderRepoLink(item) {
   );
 }
 
+/** Prefer repo-hosted `res/lang/{slug}.svg`, else Simple Icons CDN. */
+function languageIconSrc(slug) {
+  const localRel = `res/lang/${slug}.svg`;
+  if (existsSync(join(root, localRel))) return localRel;
+  return `https://cdn.simpleicons.org/${encodeURIComponent(slug)}`;
+}
+
 function renderLanguages(item) {
   const langs = Array.isArray(item.languages) ? item.languages : [];
   if (!langs.length) return "";
@@ -106,7 +113,7 @@ function renderLanguages(item) {
     .map((slug) => {
       const id = String(slug).trim();
       if (!id) return "";
-      const src = `https://cdn.simpleicons.org/${encodeURIComponent(id)}`;
+      const src = languageIconSrc(id);
       return `<img src="${escapeAttr(src)}" alt="${escapeAttr(id)}" title="${escapeAttr(id)}" width="16" height="16" align="absmiddle">`;
     })
     .filter(Boolean)
