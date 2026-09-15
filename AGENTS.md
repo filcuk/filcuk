@@ -11,7 +11,7 @@ GitHub profile repository (`filcuk/filcuk`). The profile `README.md` is partly g
 - Source: `LINKS_JSON_URL` → `https://raw.githubusercontent.com/filcuk/shared/main/dir/links.json`
 - Workflow: `.github/workflows/update-readme-links.yml` (`workflow_dispatch`, weekly schedule, or push to the script/workflow)
 - Stats images below the markers are hand-maintained; do not regenerate them here
-- Language icons use Simple Icons slugs from each item's `languages` array; `res/lang/{slug}.svg` overrides the CDN when present, otherwise `cdn.simpleicons.org`
+- Row layout: type badge → app icon → label → subtitle → GitHub repo icon (if `repo`)
 
 ### Local regenerate
 
