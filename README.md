@@ -4,7 +4,9 @@
 <details>
 <summary><a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><picture><source media="(prefers-color-scheme: dark)" srcset="https://filcuk.github.io/pqm-stepper/app/res/app-dark.svg"><img src="https://filcuk.github.io/pqm-stepper/app/res/app-light.svg" alt="Power Query M Stepper" width="20" height="20" align="absmiddle"></picture></a> <a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><strong>Power Query M Stepper</strong></a> · Automatic M step renaming · <a href="https://github.com/filcuk/pqm-stepper" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-🤔 nothing here yet...
+No more tedious manual renaming.
+Stop your queries from looking like a shaggy carpet.
+You are a few clicks away from transforming the messy default query steps into **compliant, contextual labels** with zero effort.
 
 </details>
 <details>
@@ -89,12 +91,6 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><img src="https://img.shields.io/badge/IoT-blueviolet" alt="IoT" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays.</summary>
-
-🤔 nothing here yet...
-
-</details>
-<details>
 <summary><a href="https://github.com/filcuk/planka-mcp/pkgs/npm/planka-mcp" title="MCP server for Planka Kanban"><img src="https://img.shields.io/badge/pkg-red" alt="pkg" align="absmiddle"></a> <a href="https://github.com/filcuk/planka-mcp/pkgs/npm/planka-mcp" title="MCP server for Planka Kanban"><strong>Planka MCP</strong></a> · MCP server for Planka Kanban · <a href="https://github.com/filcuk/planka-mcp" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 🤔 nothing here yet...
@@ -102,6 +98,12 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 </details>
 <details>
 <summary><a href="https://github.com/filcuk/n8n-nodes-planka-kanban/pkgs/npm/n8n-nodes-planka-kanban" title="n8n automation node for Planka Kanban"><img src="https://img.shields.io/badge/pkg-red" alt="pkg" align="absmiddle"></a> <a href="https://github.com/filcuk/n8n-nodes-planka-kanban/pkgs/npm/n8n-nodes-planka-kanban" title="n8n automation node for Planka Kanban"><strong>Planka n8n Node</strong></a> · n8n automation node for Planka Kanban · <a href="https://github.com/filcuk/n8n-nodes-planka-kanban" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+
+🤔 nothing here yet...
+
+</details>
+<details>
+<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><img src="https://img.shields.io/badge/IoT-blueviolet" alt="IoT" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays.</summary>
 
 🤔 nothing here yet...
 
