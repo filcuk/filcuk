@@ -52,19 +52,19 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/power-query" title="Collection of M functions"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/power-query" title="Collection of M functions"><strong>Power Query</strong></a> · Collection of M functions</summary>
+<summary><a href="https://github.com/filcuk/power-query" title="Collection of M functions"><img src="https://img.shields.io/badge/repo-slategray" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/power-query" title="Collection of M functions"><strong>Power Query</strong></a> · Collection of M functions</summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><strong>DAX</strong></a> · Collection of DAX functions</summary>
+<summary><a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><img src="https://img.shields.io/badge/repo-slategray" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><strong>DAX</strong></a> · Collection of DAX functions</summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · Customised Best Practice Analyser rules</summary>
+<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-slategray" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · Customised Best Practice Analyser rules</summary>
 
 🤔 nothing here yet...
 
@@ -109,7 +109,7 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays</summary>
+<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><img src="https://img.shields.io/badge/repo-slategray" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays</summary>
 
 🤔 nothing here yet...
 
