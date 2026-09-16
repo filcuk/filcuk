@@ -12,19 +12,17 @@ const START = "<!-- links:start -->";
 const END = "<!-- links:end -->";
 
 const TYPE_BADGE = {
-  "static-web-app": { label: "SWA", color: "blue" },
   "progressive-web-app": { label: "PWA", color: "royalblue" },
+  "static-web-app": { label: "SWA", color: "blue" },
   cli: { label: "CLI", color: "teal" },
-  tui: { label: "TUI", color: "lightseagreen" },
+  tui: { label: "TUI", color: "teal" },
   package: { label: "pkg", color: "red" },
-  repository: { label: "repo", color: "green" },
-  iot: { label: "IoT", color: "blueviolet" },
-  profile: { label: "profile", color: "lightgrey" },
-  extension: { label: "addon", color: "purple" },
-  wearable: { label: "gear", color: "goldenrod" },
-  physible: { label: "3dp", color: "orange" },
+  store: { label: "store", color: "purple" },
+  repository: { label: "repo", color: "lightgrey" },
   reserved1: { label: "tbc", color: "deeppink" },
   reserved2: { label: "tbc", color: "crimson" },
+  reserved3: { label: "tbc", color: "blueviolet" },
+  reserved4: { label: "tbc", color: "orange" },
 };
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
