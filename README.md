@@ -4,8 +4,8 @@
 <details>
 <summary><a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><picture><source media="(prefers-color-scheme: dark)" srcset="https://filcuk.github.io/pqm-stepper/app/res/app-dark.svg"><img src="https://filcuk.github.io/pqm-stepper/app/res/app-light.svg" alt="Power Query M Stepper" width="20" height="20" align="absmiddle"></picture></a> <a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><strong>Power Query M Stepper</strong></a> · Automatic M step renaming · <a href="https://github.com/filcuk/pqm-stepper" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-No more tedious manual renaming.
-Stop your queries from looking like a shaggy carpet.
+No more tedious manual renaming.<br>
+Stop your queries from looking like a shaggy carpet.<br>
 You are a few clicks away from transforming the messy default query steps into **compliant, contextual labels** with zero effort.
 
 </details>
@@ -52,19 +52,19 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/power-query" title="Collection of M functions"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/power-query" title="Collection of M functions"><strong>Power Query</strong></a> · Collection of M functions</summary>
+<summary><a href="https://github.com/filcuk/power-query" title="Collection of M functions"><img src="https://img.shields.io/badge/repo-slategray" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/power-query" title="Collection of M functions"><strong>Power Query</strong></a> · Collection of M functions</summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><strong>DAX</strong></a> · Collection of DAX functions</summary>
+<summary><a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><img src="https://img.shields.io/badge/repo-slategray" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><strong>DAX</strong></a> · Collection of DAX functions</summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · Customised Best Practice Analyser rules</summary>
+<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-slategray" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · Customised Best Practice Analyser rules</summary>
 
 🤔 nothing here yet...
 
@@ -109,7 +109,7 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays</summary>
+<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><img src="https://img.shields.io/badge/repo-slategray" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays</summary>
 
 🤔 nothing here yet...
 

@@ -120,9 +120,20 @@ function renderRowContent(item) {
   return parts.join(" ");
 }
 
+/** GitHub Markdown collapses single newlines; turn them into hard breaks. */
+function formatDescription(text) {
+  return text
+    .trim()
+    .replace(/\r\n/g, "\n")
+    .split(/\n{2,}/)
+    .map((para) => para.split("\n").join("<br>\n"))
+    .join("\n\n");
+}
+
 function renderItem(item) {
   const row = renderRowContent(item);
-  const description = typeof item.description === "string" ? item.description.trim() : "";
+  const raw = typeof item.description === "string" ? item.description : "";
+  const description = raw.trim() ? formatDescription(raw) : "";
 
   // Every item is a <details> so rows align; placeholder until descriptions are filled in.
   if (!description) {
