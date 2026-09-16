@@ -18,10 +18,13 @@ const TYPE_BADGE = {
   tui: { label: "TUI", color: "lightseagreen" },
   package: { label: "pkg", color: "red" },
   repository: { label: "repo", color: "green" },
-  iot: { label: "IoT", color: "orange" },
+  iot: { label: "IoT", color: "blueviolet" },
   profile: { label: "profile", color: "lightgrey" },
   extension: { label: "addon", color: "purple" },
-  wearable: { label: "wearable", color: "goldenrod" },
+  wearable: { label: "gear", color: "goldenrod" },
+  physible: { label: "3dp", color: "orange" },
+  reserved1: { label: "tbc", color: "deeppink" },
+  reserved2: { label: "tbc", color: "crimson" },
 };
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -82,7 +85,7 @@ function renderIcon(item) {
 }
 
 function renderBadge(type) {
-  const meta = TYPE_BADGE[type] || { label: type, color: "grey" };
+  const meta = TYPE_BADGE[type] || { label: type, color: "slategray" };
   const label = encodeURIComponent(meta.label);
   const src = `https://img.shields.io/badge/${label}-${meta.color}`;
   return `<img src="${src}" alt="${escapeAttr(meta.label)}" align="absmiddle">`;
