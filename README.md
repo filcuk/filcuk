@@ -46,25 +46,25 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/pbi-git-toolkit/releases" title="Clarity for Power BI project files on git"><img src="https://img.shields.io/badge/TUI-lightseagreen" alt="TUI" align="absmiddle"></a> <a href="https://github.com/filcuk/pbi-git-toolkit/releases" title="Clarity for Power BI project files on git"><strong>PBIgTk</strong></a> · Clarity for Power BI project files on git · <a href="https://github.com/filcuk/pbi-git-toolkit" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+<summary><a href="https://github.com/filcuk/pbi-git-toolkit/releases" title="Clarity for Power BI project files on git"><img src="https://img.shields.io/badge/TUI-teal" alt="TUI" align="absmiddle"></a> <a href="https://github.com/filcuk/pbi-git-toolkit/releases" title="Clarity for Power BI project files on git"><strong>PBIgTk</strong></a> · Clarity for Power BI project files on git · <a href="https://github.com/filcuk/pbi-git-toolkit" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/power-query" title="Collection of M functions"><img src="https://img.shields.io/badge/repo-green" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/power-query" title="Collection of M functions"><strong>Power Query</strong></a> · Collection of M functions</summary>
+<summary><a href="https://github.com/filcuk/power-query" title="Collection of M functions"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/power-query" title="Collection of M functions"><strong>Power Query</strong></a> · Collection of M functions</summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><img src="https://img.shields.io/badge/repo-green" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><strong>DAX</strong></a> · Collection of DAX functions</summary>
+<summary><a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/dax" title="Collection of DAX functions"><strong>DAX</strong></a> · Collection of DAX functions</summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-green" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · Customised Best Practice Analyser rules</summary>
+<summary><a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/ssas-best-practice-rules" title="Customised Best Practice Analyser rules"><strong>BPA Rules</strong></a> · Customised Best Practice Analyser rules</summary>
 
 🤔 nothing here yet...
 
@@ -85,31 +85,31 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><img src="https://img.shields.io/badge/gear-goldenrod" alt="gear" align="absmiddle"></a> <a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><strong>Pebble Watchface Argus</strong></a> · Weather and calendar watchface for Pebble Emery smartwatches. · <a href="https://github.com/filcuk/pebble-watchface-argus" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+<summary><a href="https://www.npmjs.com/package/@filcuk/planka-mcp" title="MCP server for Planka Kanban"><img src="https://img.shields.io/badge/pkg-red" alt="pkg" align="absmiddle"></a> <a href="https://www.npmjs.com/package/@filcuk/planka-mcp" title="MCP server for Planka Kanban"><strong>Planka MCP</strong></a> · MCP server for Planka Kanban · <a href="https://github.com/filcuk/planka-mcp" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/planka-mcp/pkgs/npm/planka-mcp" title="MCP server for Planka Kanban"><img src="https://img.shields.io/badge/pkg-red" alt="pkg" align="absmiddle"></a> <a href="https://github.com/filcuk/planka-mcp/pkgs/npm/planka-mcp" title="MCP server for Planka Kanban"><strong>Planka MCP</strong></a> · MCP server for Planka Kanban · <a href="https://github.com/filcuk/planka-mcp" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+<summary><a href="https://www.npmjs.com/package/n8n-nodes-planka-kanban" title="n8n automation node for Planka Kanban"><img src="https://img.shields.io/badge/pkg-red" alt="pkg" align="absmiddle"></a> <a href="https://www.npmjs.com/package/n8n-nodes-planka-kanban" title="n8n automation node for Planka Kanban"><strong>Planka n8n Node</strong></a> · n8n automation node for Planka Kanban · <a href="https://github.com/filcuk/n8n-nodes-planka-kanban" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/n8n-nodes-planka-kanban/pkgs/npm/n8n-nodes-planka-kanban" title="n8n automation node for Planka Kanban"><img src="https://img.shields.io/badge/pkg-red" alt="pkg" align="absmiddle"></a> <a href="https://github.com/filcuk/n8n-nodes-planka-kanban/pkgs/npm/n8n-nodes-planka-kanban" title="n8n automation node for Planka Kanban"><strong>Planka n8n Node</strong></a> · n8n automation node for Planka Kanban · <a href="https://github.com/filcuk/n8n-nodes-planka-kanban" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+<summary><a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><img src="https://img.shields.io/badge/store-purple" alt="store" align="absmiddle"></a> <a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><strong>Pebble Watchface Argus</strong></a> · Weather and calendar watchface for Pebble Emery smartwatches. · <a href="https://github.com/filcuk/pebble-watchface-argus" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><img src="https://img.shields.io/badge/IoT-blueviolet" alt="IoT" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays.</summary>
+<summary><a href="https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/" title="Firefox add-on to open Proofpoint-blocked URLs"><img src="https://img.shields.io/badge/store-purple" alt="store" align="absmiddle"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/" title="Firefox add-on to open Proofpoint-blocked URLs"><strong>Proofpoint Redirect Bypass</strong></a> · Firefox add-on to open Proofpoint-blocked URLs · <a href="https://github.com/filcuk/bypass-proofpoint-redirect" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/" title="Firefox add-on to open Proofpoint-blocked URLs"><img src="https://img.shields.io/badge/addon-purple" alt="addon" align="absmiddle"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/" title="Firefox add-on to open Proofpoint-blocked URLs"><strong>Proofpoint Redirect Bypass</strong></a> · Firefox add-on to open Proofpoint-blocked URLs · <a href="https://github.com/filcuk/bypass-proofpoint-redirect" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><img src="https://img.shields.io/badge/repo-lightgrey" alt="repo" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays"><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays</summary>
 
 🤔 nothing here yet...
 
