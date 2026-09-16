@@ -83,13 +83,13 @@ fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamlin
 
 </details>
 <details>
-<summary><a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><img src="https://img.shields.io/badge/wearable-goldenrod" alt="wearable" align="absmiddle"></a> <a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><strong>Pebble Watchface Argus</strong></a> · Weather and calendar watchface for Pebble Emery smartwatches. · <a href="https://github.com/filcuk/pebble-watchface-argus" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+<summary><a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><img src="https://img.shields.io/badge/gear-goldenrod" alt="gear" align="absmiddle"></a> <a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><strong>Pebble Watchface Argus</strong></a> · Weather and calendar watchface for Pebble Emery smartwatches. · <a href="https://github.com/filcuk/pebble-watchface-argus" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 🤔 nothing here yet...
 
 </details>
 <details>
-<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><img src="https://img.shields.io/badge/IoT-orange" alt="IoT" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays.</summary>
+<summary><a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><img src="https://img.shields.io/badge/IoT-blueviolet" alt="IoT" align="absmiddle"></a> <a href="https://github.com/filcuk/inky-gallery" title="A custom photo gallery for Pimoroni Inky Frame eInk displays."><strong>Inky Gallery</strong></a> · A custom photo gallery for Pimoroni Inky Frame eInk displays.</summary>
 
 🤔 nothing here yet...
 
