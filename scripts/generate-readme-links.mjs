@@ -12,13 +12,16 @@ const START = "<!-- links:start -->";
 const END = "<!-- links:end -->";
 
 const TYPE_BADGE = {
-  "static-web-app": { label: "app", color: "blue" },
+  "static-web-app": { label: "SWA", color: "blue" },
+  "progressive-web-app": { label: "PWA", color: "royalblue" },
   cli: { label: "CLI", color: "teal" },
-  tui: { label: "TUI", color: "teal" },
+  tui: { label: "TUI", color: "lightseagreen" },
+  package: { label: "pkg", color: "red" },
   repository: { label: "repo", color: "green" },
-  package: { label: "npm", color: "red" },
-  extension: { label: "addon", color: "purple" },
+  iot: { label: "IoT", color: "orange" },
   profile: { label: "profile", color: "lightgrey" },
+  extension: { label: "addon", color: "purple" },
+  wearable: { label: "wearable", color: "goldenrod" },
 };
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -79,7 +82,7 @@ function renderIcon(item) {
 }
 
 function renderBadge(type) {
-  const meta = TYPE_BADGE[type] || { label: type, color: "lightgrey" };
+  const meta = TYPE_BADGE[type] || { label: type, color: "grey" };
   const label = encodeURIComponent(meta.label);
   const src = `https://img.shields.io/badge/${label}-${meta.color}`;
   return `<img src="${src}" alt="${escapeAttr(meta.label)}" align="absmiddle">`;
