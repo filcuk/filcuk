@@ -18,7 +18,7 @@ const TYPE_BADGE = {
   tui: { label: "TUI", color: "teal" },
   package: { label: "pkg", color: "red" },
   store: { label: "store", color: "purple" },
-  repository: { label: "repo", color: "lightgrey" },
+  repository: { label: "repo", color: "slategray" },
   reserved1: { label: "tbc", color: "deeppink" },
   reserved2: { label: "tbc", color: "crimson" },
   reserved3: { label: "tbc", color: "blueviolet" },
