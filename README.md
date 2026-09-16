@@ -5,20 +5,22 @@
 <summary><a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><picture><source media="(prefers-color-scheme: dark)" srcset="https://filcuk.github.io/pqm-stepper/app/res/app-dark.svg"><img src="https://filcuk.github.io/pqm-stepper/app/res/app-light.svg" alt="Power Query M Stepper" width="20" height="20" align="absmiddle"></picture></a> <a href="https://filcuk.github.io/pqm-stepper/" title="Automatic M step renaming"><strong>Power Query M Stepper</strong></a> · Automatic M step renaming · <a href="https://github.com/filcuk/pqm-stepper" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 No more _tedious manual renaming_. Stop your queries from looking like a _shaggy carpet_.<br>
-You are a few clicks away from transforming the messy default query steps into **compliant, contextual labels** with _zero effort_.
+You are **a few clicks away** from transforming the _messy default query steps_ into **compliant, contextual labels** with _zero effort_.
 
 </details>
 <details>
 <summary><a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><img src="https://filcuk.github.io/pqm-function-creator/app/res/app.svg" alt="Power Query M Function Creator" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><strong>Power Query M Function Creator</strong></a> · Easy M to function conversion · <a href="https://github.com/filcuk/pqm-function-creator" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-_There may be a day when I write an M function wrapper without needing a reference, but that day is not today..._<br>
+_There may be a day when I write an `M` function wrapper without needing a reference, but that day is not today..._<br>
 ...nor tomorrow, or the day after, thanks to this tool.
 
 </details>
 <details>
 <summary><a href="https://filcuk.github.io/pbi-tabulator/" title="Tabular conversion for DAX &amp; M"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-tabulator/" title="Tabular conversion for DAX &amp; M"><img src="https://filcuk.github.io/pbi-tabulator/app/res/app.svg" alt="Power BI Tabulator" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-tabulator/" title="Tabular conversion for DAX &amp; M"><strong>Power BI Tabulator</strong></a> · Tabular conversion for DAX &amp; M · <a href="https://github.com/filcuk/pbi-tabulator" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-🤔 nothing here yet...
+I don't know many things worse than _writing tables in text_.<br>
+If you're looking to **create or modify `DAX` or `M` tables using a tabular interface**, look no further.<br>
+As a bonus, we include tools for alignment and minification, _just for you_.
 
 </details>
 <details>
@@ -42,7 +44,7 @@ _There may be a day when I write an M function wrapper without needing a referen
 <details>
 <summary><a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><img src="https://img.shields.io/badge/CLI-teal" alt="CLI" align="absmiddle"></a> <a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><img src="https://raw.githubusercontent.com/filcuk/fabric-tools/refs/heads/main/res/app.svg" alt="Fabric Tools" width="20" height="20" align="absmiddle"></a> <a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><strong>Fabric Tools</strong></a> · CLI for working with Microsoft Fabric artifacts · <a href="https://github.com/filcuk/fabric-tools" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-fabric-tools is made for ~~lazy~~ _efficient_ developers, intended to _streamline daily tasks_ across Fabric, avoiding clunky online editors and slow deployment pipelines.
+`fabric-tools` is made for ~~lazy~~ _efficient_ developers, intended to _streamline daily tasks_ across Fabric, avoiding clunky online editors and slow deployment pipelines.
 
 </details>
 <details>
