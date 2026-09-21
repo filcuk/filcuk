@@ -13,7 +13,8 @@ You are **a few clicks away** from transforming the _messy default query steps_ 
 <summary><a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><img src="https://filcuk.github.io/pqm-function-creator/app/res/app.svg" alt="Power Query M Function Creator" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pqm-function-creator/" title="Easy M to function conversion"><strong>Power Query M Function Creator</strong></a> · Easy M to function conversion · <a href="https://github.com/filcuk/pqm-function-creator" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 _There may be a day when I write an `M` function wrapper without needing a reference, but that day is not today..._<br>
-...nor tomorrow, or the day after, thanks to this tool.
+...nor tomorrow, or the day after, thanks to this tool.<br>
+![screenshot](https://raw.githubusercontent.com/filcuk/pqm-function-creator/refs/heads/main/res/readme/screenshot1.png)
 
 </details>
 <details>
@@ -25,27 +26,30 @@ As a bonus, we include tools for alignment and minification, _just for you_.
 
 </details>
 <details>
-<summary><a href="https://filcuk.github.io/pbi-embedder/" title="Embed documents in Power BI"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-embedder/" title="Embed documents in Power BI"><img src="https://filcuk.github.io/pbi-embedder/app/res/app.svg" alt="Power BI Embedder" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-embedder/" title="Embed documents in Power BI"><strong>Power BI Embedder</strong></a> · Embed documents in Power BI · <a href="https://github.com/filcuk/pbi-embedder" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+<summary><a href="https://filcuk.github.io/pbi-embedder/" title="Embed data in Power BI"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-embedder/" title="Embed data in Power BI"><img src="https://filcuk.github.io/pbi-embedder/app/res/app.svg" alt="Power BI Embedder" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-embedder/" title="Embed data in Power BI"><strong>Power BI Embedder</strong></a> · Embed data in Power BI · <a href="https://github.com/filcuk/pbi-embedder" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-🤔 nothing here yet...
+Alternative methods for **loading static data**, **bypassing limits** of the built-in Power Query editor, with optional compression.
 
 </details>
 <details>
 <summary><a href="https://filcuk.github.io/pbi-theme-customiser/" title="Theme import, export &amp; customisation"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-theme-customiser/" title="Theme import, export &amp; customisation"><img src="https://filcuk.github.io/pbi-theme-customiser/res/logo.svg" alt="Power BI Theme Customiser" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/pbi-theme-customiser/" title="Theme import, export &amp; customisation"><strong>Power BI Theme Customiser</strong></a> · Theme import, export &amp; customisation · <a href="https://github.com/filcuk/pbi-theme-customiser" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-🤔 nothing here yet...
+Colour-focused **theme management for Power BI**.<br>
+**Create a theme** from scratch or upload an existing one to customise. _Customise secondary and structural colours_. _Export a sampler_ for documentation with embedded data for later re-import. Use _built-in storage_ for ongoing changes.
 
 </details>
 <details>
 <summary><a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><img src="https://filcuk.github.io/connection-string-creator/app/res/app.svg" alt="Database Connection String Generator" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><strong>Database Connection String Generator</strong></a> · Zero-knowledge CS builder · <a href="https://github.com/filcuk/connection-string-creator" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-🤔 nothing here yet...
+**Build connection strings** for your databases without knowing the intricacies of the syntax.<br>
+![screenshot](https://raw.githubusercontent.com/filcuk/connection-string-creator/refs/heads/main/res/readme/screenshot1.png)
 
 </details>
 <details>
 <summary><a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><img src="https://img.shields.io/badge/CLI-teal" alt="CLI" align="absmiddle"></a> <a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><img src="https://raw.githubusercontent.com/filcuk/fabric-tools/refs/heads/main/res/app.svg" alt="Fabric Tools" width="20" height="20" align="absmiddle"></a> <a href="https://github.com/filcuk/fabric-tools/releases" title="CLI for working with Microsoft Fabric artifacts"><strong>Fabric Tools</strong></a> · CLI for working with Microsoft Fabric artifacts · <a href="https://github.com/filcuk/fabric-tools" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-`fabric-tools` is made for ~~lazy~~ _efficient_ developers, intended to _streamline daily tasks_ across Fabric, avoiding clunky online editors and slow deployment pipelines.
+`fabric-tools` is made for ~~lazy~~ _efficient_ developers, intended to _streamline daily tasks_ across Fabric, avoiding clunky online editors and slow deployment pipelines.<br>
+![demo](https://raw.githubusercontent.com/filcuk/fabric-tools/refs/heads/main/res/readme/demo.avif)
 
 </details>
 <details>
