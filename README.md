@@ -42,7 +42,7 @@ Colour-focused **theme management for Power BI**.<br>
 <summary><a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><img src="https://img.shields.io/badge/SWA-blue" alt="SWA" align="absmiddle"></a> <a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><img src="https://filcuk.github.io/connection-string-creator/app/res/app.svg" alt="Database Connection String Generator" width="20" height="20" align="absmiddle"></a> <a href="https://filcuk.github.io/connection-string-creator/" title="Zero-knowledge CS builder"><strong>Database Connection String Generator</strong></a> · Zero-knowledge CS builder · <a href="https://github.com/filcuk/connection-string-creator" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
 **Build connection strings** for your databases without knowing the intricacies of the syntax.<br>
-![screenshot](https://raw.githubusercontent.com/filcuk/connection-string-creator/refs/heads/main/res/readme/screenshot1.png)
+![screenshot](https://raw.githubusercontent.com/filcuk/connection-string-creator/refs/heads/main/res/screenshot-1.jpg)
 
 </details>
 <details>
@@ -104,15 +104,15 @@ Colour-focused **theme management for Power BI**.<br>
 
 </details>
 <details>
-<summary><a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><img src="https://img.shields.io/badge/store-purple" alt="store" align="absmiddle"></a> <a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Emery smartwatches."><strong>Pebble Watchface Argus</strong></a> · Weather and calendar watchface for Pebble Emery smartwatches. · <a href="https://github.com/filcuk/pebble-watchface-argus" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
+<summary><a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Time 2 smartwatches."><img src="https://img.shields.io/badge/store-purple" alt="store" align="absmiddle"></a> <a href="https://apps.repebble.com/d119efdfa11e498496d4d411" title="Weather and calendar watchface for Pebble Time 2 smartwatches."><strong>Pebble Watchface Argus</strong></a> · Weather and calendar watchface for Pebble Time 2 smartwatches. · <a href="https://github.com/filcuk/pebble-watchface-argus" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-🤔 nothing here yet...
+A watchface with _fixed layout_, but **extensive customisation options**. **Weather chart** provides temperature, precipitation and wind speed. **Calendar** shows two weeks and highlights holidays. Header at the top can show various information, like steps or heart rate. Time is always big and center. Tailored for minimal footprint and optimal battery life.
 
 </details>
 <details>
 <summary><a href="https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/" title="Firefox add-on to open Proofpoint-blocked URLs"><img src="https://img.shields.io/badge/store-purple" alt="store" align="absmiddle"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/bypass-proofpoint-redirect/" title="Firefox add-on to open Proofpoint-blocked URLs"><strong>Proofpoint Redirect Bypass</strong></a> · Firefox add-on to open Proofpoint-blocked URLs · <a href="https://github.com/filcuk/bypass-proofpoint-redirect" title="Repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f0f6fc"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" align="absmiddle"></picture></a></summary>
 
-🤔 nothing here yet...
+This add-on **extracts the original URL** from Proofpoint's sandbox and redirects to it automatically.
 
 </details>
 <details>
